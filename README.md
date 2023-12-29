@@ -20,6 +20,14 @@ console.log(cat.meow());
 
 ```
 
+### Example
+
+```
+ /\_/\
+( o.o )
+ > ^ <
+```
+
 # License
 The MIT License (MIT)
 
@@ -33,4 +41,4 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 
 ## Keywords
 
-cat fun import
+cat fun ascii
