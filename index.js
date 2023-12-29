@@ -42,5 +42,5 @@ class Cat {
     return cats[Math.floor(Math.random() * cats.length)];
   }
 }
-
+console.log("sssssssssssssssssssss");
 export { Cat }
