@@ -1,12 +1,12 @@
-Cache My Trash
-Description
-fun npm that create picture of random ASCII cat
+# Get Cat
+## Description
+Fun npm that create picture of random ASCII cat
 
-Installation
+## Installation
 ```
 npm install get-cat
 ```
-Example
+## Using samples
 ```
 // Import Cat.
 
@@ -16,14 +16,14 @@ import { Cat } from 'get-cat';
 const cat = new Cat();
 
 // Get random ASCII cat.
-console.log(cat.meow));
+console.log(cat.meow());
 
 ```
 
 License
 The MIT License (MIT)
 
-Copyright © 2023 Volodymyr Sichka
+Copyright © 2023 Halyna Mazur
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
