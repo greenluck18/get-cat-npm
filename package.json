@@ -1,0 +1,23 @@
+{
+  "name": "get-cat",
+  "version": "1.0.0",
+  "description": "geting picture of random ASCII cat",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/greenluck18/get-cat-npm.git"
+  },
+  "keywords": [
+    "fun",
+    "cats"
+  ],
+  "author": "Halyna Mazur",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/greenluck18/get-cat-npm/issues"
+  },
+  "homepage": "https://github.com/greenluck18/get-cat-npm#readme"
+}
