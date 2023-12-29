@@ -1,11 +1,8 @@
 
+/**
+ * @class Cat
+ */
 class Cat {
-  constructor(name) {
-    this.name = name;
-  }
-  speak() {
-    console.log(`${this.name} makes a noise.`);
-  }
   meow() {
     const cats = [
       " /\\_/\\" + "\n" +
@@ -42,4 +39,4 @@ class Cat {
     return cats[Math.floor(Math.random() * cats.length)];
   }
 }
-export { Cat }
+export { Cat };
