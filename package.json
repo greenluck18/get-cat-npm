@@ -1,5 +1,5 @@
 {
-  "name": "get-cat",
+  "name": "get-cat-npm",
   "version": "1.0.0",
   "description": "geting picture of random ASCII cat",
   "main": "index.js",

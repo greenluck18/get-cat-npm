@@ -10,7 +10,7 @@ npm install get-cat
 ```
 // Import Cat.
 
-import { Cat } from 'get-cat';
+import { Cat } from 'get-cat-npm';
 
 // Create instance of Cat.
 const cat = new Cat();
