@@ -1,6 +1,6 @@
 {
   "name": "get-cat",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Geting picture of random ASCII cat",
   "main": "index.js",
   "type":"module",
